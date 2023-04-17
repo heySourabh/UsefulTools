@@ -1,7 +1,7 @@
 '''
 Desc:
     Program to convert to pdf and generate good quality compressed pdf.
-    Usage: python3 <program.py> file[.pdf|.png|.jpeg|.jpg|.svg]
+    Usage: python3 convert_to_compressed_pdf.py file[.pdf|.png|.jpeg|.jpg|.svg]
     If a image file is provided then the program converts the image to pdf.
     The software 'inkscape' and 'gs' must be available on the $PATH.
 
